@@ -1,0 +1,28 @@
+# Deep Learning Frameworks
+torch>=1.7.0 
+tensorflow>=2.5.0         
+
+# Image Processing & Feature Extraction
+pillow>=8.0.0             
+opencv-python>=4.5.1      
+numpy>=1.19.5            
+scipy>=1.7.3              
+matplotlib>=3.4.3        
+imageio>=2.9.0           
+
+# Pre-Trained Model Support
+torchvision>=0.8.0       
+keras>=2.5.0            
+tqdm>=4.62.3            
+
+# Optimization Tools
+torch-optimizer>=0.1.0
+tensorflow-addons>=0.13.0 
+
+# Deployment & UI Support
+flask>=2.0.1            
+gradio>=3.0.0          
+
+# Additional Utilities
+python-dotenv>=0.19.0     
+requests>=2.25.1
